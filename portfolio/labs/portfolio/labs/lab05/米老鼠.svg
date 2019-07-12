@@ -1,0 +1,54 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" baseProfile="full" version="1.1">
+
+  <rect fill="white" stroke="red" width="512" height="512" />
+
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="12">0</text>
+  <path fill="white" stroke="lightgray" d="M 256 64 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="64">64</text>
+  <path fill="white" stroke="lightgray" d="M 256 128 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="128">128</text>
+  <path fill="white" stroke="lightgray" d="M 256 192 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="192">192</text>
+  <path fill="white" stroke="lightgray" d="M 256 256 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="256">256</text>
+  <path fill="white" stroke="lightgray" d="M 256 320 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="320">320</text>
+  <path fill="white" stroke="lightgray" d="M 256 384 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="384">384</text>
+  <path fill="white" stroke="lightgray" d="M 256 448 H 0 H 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="448">448</text>
+  <text font-size="12px" fill="red" text-anchor="start" x="2" y="512">512</text>
+
+  <path fill="white" stroke="lightgray" d="M 64 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="64" y="12">64</text>
+  <path fill="white" stroke="lightgray" d="M 128 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="128" y="12">128</text>
+  <path fill="white" stroke="lightgray" d="M 195 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="192" y="12">192</text>
+  <path fill="white" stroke="lightgray" d="M 256 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="256" y="12">256</text>
+  <path fill="white" stroke="lightgray" d="M 320 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="320" y="12">320</text>
+  <path fill="white" stroke="lightgray" d="M 384 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="384" y="12">384</text>
+  <path fill="white" stroke="lightgray" d="M 448 0 V 512" />
+  <text font-size="12px" fill="red" text-anchor="start" x="448" y="12">448</text>
+  <text font-size="12px" fill="red" text-anchor="start" x="512" y="12">512</text>
+
+
+  <path fill="white" stroke="black" d="M 256 256 V 270 V 242 M 256 256 H 270 H 242" />
+  <text font-size="16px" fill="red" text-anchor="middle" x="256" y="256">(256, 256)</text>
+
+  <circle fill="black" transform="translate(100 50)" cx="150" cy="100" r="80" />
+<circle fill="black" stroke="black" stroke-width="5" cx="150" cy="105" r="44"/>
+<circle fill="#black" stroke="black" stroke-width="5" cx="350" cy="105" r="44"/>
+
+  <defs>
+    <path id="a1" fill="none" stroke="#000" transform="translate(175 215)" d="M 0 50 C 150 150 100 -50 300 50" />
+  </defs>
+  <text>
+     <textPath href="#a1">米老鼠屬鼠鼠鼠鼠鼠鼠
+    </textPath>
+  </text>
